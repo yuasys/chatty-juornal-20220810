@@ -25,6 +25,8 @@
 1. GTM(Google Tag Manager)をそのままReact系フレームワークNextJSに適用しても意味がない。GTMの代わりとなる別のアプローチが必要。  
 
 <br/>Example Code [出典](https://sdgs.edutown.jp/) 
+
+```javascript
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
