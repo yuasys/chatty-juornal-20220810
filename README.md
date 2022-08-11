@@ -1,7 +1,7 @@
 # chatty-juornal-20220810
 
 <details>
-<summary><h2 style="indent:1em;">今日の取り組み</h2></summary>
+<summary><h2>今日の取り組み</h2></summary>
 
 1. githubを活用した学習方法の研究開発（前日から継続中）
     - かなり慣れが必要と思うしばらく試行錯誤してみる
